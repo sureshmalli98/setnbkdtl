@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bank-form-app
+    name: setnbkdtl
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
